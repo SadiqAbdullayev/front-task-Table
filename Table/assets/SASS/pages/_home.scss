@@ -1,0 +1,16 @@
+.tables{
+    margin-top: 50px;
+    table{
+        width: 100%;
+        font-family: sans-serif;
+        tr{
+            th{
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+            td{
+                border: 1px solid black;
+            }
+        }
+    }
+}

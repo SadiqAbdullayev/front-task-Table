@@ -1,0 +1,18 @@
+.tables {
+  margin-top: 50px;
+}
+
+.tables table {
+  width: 100%;
+  font-family: sans-serif;
+}
+
+.tables table tr th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.tables table tr td {
+  border: 1px solid black;
+}
+/*# sourceMappingURL=import.css.map */

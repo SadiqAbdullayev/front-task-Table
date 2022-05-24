@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,OAAO,CAAA;EACH,UAAU,EAAE,IAAI;CAcnB;;AAfD,AAEI,OAFG,CAEH,KAAK,CAAA;EACD,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,UAAU;CAU1B;;AAdL,AAMY,OANL,CAEH,KAAK,CAGD,EAAE,CACE,EAAE,CAAA;EACE,MAAM,EAAE,eAAe;EACvB,eAAe,EAAE,QAAQ;CAC5B;;AATb,AAUY,OAVL,CAEH,KAAK,CAGD,EAAE,CAKE,EAAE,CAAA;EACE,MAAM,EAAE,eAAe;CAC1B",
+    "sources": [
+        "import.scss",
+        "../SASS/variable/_variables.scss",
+        "../SASS/extend/_extend.scss",
+        "../SASS/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "import.css"
+}
